@@ -59,5 +59,5 @@ Toggles key that requires shift to be pressed, with 0.1 seconds between key down
 Returns a random float (inclusive) between a and b.  
 
 #getRandInt(a, b)  
-Returns a random integer (invludive) between a and b.  
+Returns a random integer (inclusive) between a and b.
 
