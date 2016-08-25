@@ -27,7 +27,7 @@ Changes the state of the mouse to mouse up
 # screenGrab()
 Returns a image screenshot at the moment the function is called  
   
-This can be used for AI putposes by calling getpixel((x,y)) on the image and checking the color (this returns a tuple with the 3 RGB values)  
+This can be used for AI purposes by calling getpixel((x,y)) on the image and checking the color (this returns a tuple with the 3 RGB values)  
 
 # type(string)
 Likely the most useful function in this script, it types out string with 0.1 seconds between each keypress and release.  
